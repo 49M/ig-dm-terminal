@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+*.exe
+*.out
+
+# Go workspace
+/go.work
+
+# OS junk
+.DS_Store
+
+# Editor junk
+.vscode/
+.idea/
